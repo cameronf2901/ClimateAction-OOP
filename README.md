@@ -1,11 +1,6 @@
 # ClimateAction-OOP
 
-Members
--Sam 
--Cameron
--Kamlesh
-
 TOPIC: Climate Action
- -Transport APP
- -Climate Action APP
- -Energy App
+ Transport APP:Sam
+ Climate Action APP:Kamlesh
+ Energy App:Cameron
